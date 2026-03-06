@@ -4,6 +4,7 @@
   "subtitle": "AltStore PAL apps",
   "description": "Repo for AltStore PAL",
   "iconURL": "https://szymkowiaknatan22-tech.github.io/altstore-pal-repo/icons/livecontainer.png",
+  "marketplaceID": "tech.szymkowiaknatan22.repo",
   "apps": [
     {
       "name": "LiveContainer",
